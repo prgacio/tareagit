@@ -16,6 +16,7 @@
 
         echo "<p>Número aleatorio 1: $num1</p>";
         echo "<p>Número aleatorio 2: $num1</p>";
+        echo "<p>La $num1 * $num2 = $mult</p>"
 
     ?>
     
